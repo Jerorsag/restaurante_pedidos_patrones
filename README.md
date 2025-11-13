@@ -102,13 +102,3 @@ El proyecto incluye demos que imprimen trazas similares a las siguientes:
   realista.
 - Experimentar cambiando estrategias de precio y añadiendo decoradores
   para ver el efecto en el total.
-
----
-
-Si quieres, puedo también:
-- Generar diagramas UML simplificados (texto o ASCII) para cada patrón.
-- Añadir ejemplos de tests unitarios para los puntos clave (Strategy,
-  Factory, Decorator).
-- Ajustar `pom.xml` para asegurar compatibilidad con tu versión de JDK.
-
-Fin del informe.
